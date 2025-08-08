@@ -30,8 +30,6 @@ The app helps users create, view, edit, and delete tasks — with persistent sto
 - **View Screen** – See full task details.
 - **Edit Screen** – Modify and save task details.
 
-_(Include screenshots or GIFs here if available)_
-
 ## ⚙️ Installation & Running
 
 1. **Clone the repository**
@@ -58,5 +56,3 @@ _(Include screenshots or GIFs here if available)_
 - The app works completely offline.
 - Tasks persist between sessions using SharedPreferences.
 - Theme automatically adapts to system preference.
-# task_manager
-# task_manager
