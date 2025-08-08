@@ -35,7 +35,7 @@ The app helps users create, view, edit, and delete tasks — with persistent sto
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/yourusername/task_manager.git
+   git clone https://github.com/JER3MIAH/task_manager
    cd task_manager
    ```
 
